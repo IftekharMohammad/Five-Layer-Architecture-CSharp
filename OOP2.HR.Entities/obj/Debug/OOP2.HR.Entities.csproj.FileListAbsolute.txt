@@ -1,0 +1,21 @@
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\C# projects\WFAlayer\OOP2.HR.Entities\bin\Debug\OOP2.HR.Entities.dll
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\C# projects\WFAlayer\OOP2.HR.Entities\bin\Debug\OOP2.HR.Entities.pdb
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\C# projects\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.csprojResolveAssemblyReference.cache
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\C# projects\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.dll
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\C# projects\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.pdb
+C:\Users\Jahid Hassan\Desktop\WFAlayer\OOP2.HR.Entities\bin\Debug\OOP2.HR.Entities.dll
+C:\Users\Jahid Hassan\Desktop\WFAlayer\OOP2.HR.Entities\bin\Debug\OOP2.HR.Entities.pdb
+C:\Users\Jahid Hassan\Desktop\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Jahid Hassan\Desktop\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Jahid Hassan\Desktop\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.dll
+C:\Users\Jahid Hassan\Desktop\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.pdb
+D:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Entities\bin\Debug\OOP2.HR.Entities.dll
+D:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Entities\bin\Debug\OOP2.HR.Entities.pdb
+D:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.csprojResolveAssemblyReference.cache
+D:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.dll
+D:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.pdb
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Entities\bin\Debug\OOP2.HR.Entities.dll
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Entities\bin\Debug\OOP2.HR.Entities.pdb
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.csprojResolveAssemblyReference.cache
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.dll
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Entities\obj\Debug\OOP2.HR.Entities.pdb

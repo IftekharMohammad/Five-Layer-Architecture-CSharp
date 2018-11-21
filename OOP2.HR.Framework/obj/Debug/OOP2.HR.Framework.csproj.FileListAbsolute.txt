@@ -1,0 +1,21 @@
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\C# projects\WFAlayer\OOP2.HR.Framework\bin\Debug\OOP2.HR.Framework.dll
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\C# projects\WFAlayer\OOP2.HR.Framework\bin\Debug\OOP2.HR.Framework.pdb
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\C# projects\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.csprojResolveAssemblyReference.cache
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\C# projects\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.dll
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\C# projects\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.pdb
+C:\Users\Jahid Hassan\Desktop\WFAlayer\OOP2.HR.Framework\bin\Debug\OOP2.HR.Framework.dll
+C:\Users\Jahid Hassan\Desktop\WFAlayer\OOP2.HR.Framework\bin\Debug\OOP2.HR.Framework.pdb
+C:\Users\Jahid Hassan\Desktop\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Jahid Hassan\Desktop\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Jahid Hassan\Desktop\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.dll
+C:\Users\Jahid Hassan\Desktop\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.pdb
+D:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Framework\bin\Debug\OOP2.HR.Framework.dll
+D:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Framework\bin\Debug\OOP2.HR.Framework.pdb
+D:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.csprojResolveAssemblyReference.cache
+D:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.dll
+D:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.pdb
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Framework\bin\Debug\OOP2.HR.Framework.dll
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Framework\bin\Debug\OOP2.HR.Framework.pdb
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.csprojResolveAssemblyReference.cache
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.dll
+E:\Dropbox\AIUB\8. Spring 2017-18\OOP - II\WFAlayer\OOP2.HR.Framework\obj\Debug\OOP2.HR.Framework.pdb
