@@ -1,0 +1,26 @@
+﻿USE [mydb]
+GO
+
+/****** Object:  Table [dbo].[Emp]    Script Date: 14/04/2018 02:15:30 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Emp](
+	[id] [nvarchar](150) NOT NULL,
+	[password] [nvarchar](150) NOT NULL,
+	[fname] [nvarchar](150) NOT NULL,
+	[lname] [nvarchar](150) NOT NULL,
+	[dob] [datetime] NOT NULL,
+	[dept] [nvarchar](150) NOT NULL,
+	[salary] [float] NOT NULL,
+ CONSTRAINT [PK_Emp] PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
